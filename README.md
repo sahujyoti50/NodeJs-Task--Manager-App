@@ -5,7 +5,7 @@ Preview:
 
 Task Manager Dashboard
 
-![image](https://user-images.githubusercontent.com/15225177/227189747-e1d7ac2a-b09a-4cb5-94c1-89faa2863e98.png)
+![image](https://user-images.githubusercontent.com/15225177/227189960-a65da368-334f-4ee7-91eb-6ef616377c97.png)
 
 Edit Task Page
 
